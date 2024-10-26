@@ -1,0 +1,25 @@
+/* Header Styling */
+header {
+    background-color: #4A90E2; /* Blue background */
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Paragraph Styling */
+p {
+    background-color: #F5A623; /* Orange background */
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Fixed Width Class */
+.fixed-width {
+    width: 300px;
+}
+
+/* Centering Class */
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
